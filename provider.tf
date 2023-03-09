@@ -3,7 +3,7 @@ terraform {
     organization = "itscope"
 
     workspaces {
-      name = "itscope-staging-hetzner"
+      name = "test-workspace"
     }
   }
 }
